@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Darsh Dobariya!
+🖥️ Junior Software Developer | 2+ Years Experience
+🚀 Passionate about building scalable and efficient software solutions. Enthusiastic about open-source contributions and collaborative development!
 
-<!--
-**Darsg/Darsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Tech Stack
+🔹 Backend Development
+Java, Spring Boot, JPA
+🔹 Mobile Development
+Kotlin, Jetpack Compose, Firebase
+🔹 Frontend Development
+React, JavaScript
+🔹 Database & Storage
+SQL, Oracle
+🔹 Version Control & DevOps
+Git, GitLab
+🌱 Open Source & Collaboration
+Always open to contributing to exciting projects!
+Looking to connect with like-minded developers and explore new technologies.
+📫 Let's connect:
+🔗 LinkedIn | 🏗️ Portfolio | 💬 Open to networking!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
