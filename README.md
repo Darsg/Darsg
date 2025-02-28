@@ -33,4 +33,4 @@
 ---
 
 ## 📫 Let's Connect  
-🔗 [LinkedIn](#) | 🏗️ [Portfolio](#) | 💬 Open to networking!  
+🔗 [LinkedIn](#https://in.linkedin.com/in/darsh-dobariya) | 💬 Open to networking!  
