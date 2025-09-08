@@ -16,7 +16,7 @@
 - Kotlin, Jetpack Compose, Firebase  
 
 ### 🔹 Frontend Development  
-- React, JavaScript  
+- React, NextJs, JavaScript  
 
 ### 🔹 Database & Storage  
 - SQL, Oracle  
