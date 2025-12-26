@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Darsh Dobariya!  
 
-## 🖥️ Software Developer | 5+ Years Experience  
+## 🖥️ Software Developer | 7+ Years Experience  
 
 🚀 Passionate about building scalable and efficient software solutions.  
 💡 Enthusiastic about open-source contributions and collaborative development!  
@@ -10,7 +10,7 @@
 ## 🔧 Tech Stack  
 
 ### 🔹 Backend Development  
-- Java, Spring Boot, JPA  
+- NextJs, Java, Spring Boot, JPA  
 
 ### 🔹 Mobile Development  
 - Kotlin, Jetpack Compose, Firebase  
