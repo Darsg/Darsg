@@ -10,7 +10,7 @@
 ## 🔧 Tech Stack  
 
 ### 🔹 Backend Development  
-- NextJs, Java, Spring Boot, Python
+- Java, Spring Boot, Python
 
 ### 🔹 Mobile Development  
 - Kotlin, Jetpack Compose, Firebase  
